@@ -29,6 +29,8 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
   *Regularisierung inverser Probleme*
 * **Thorsten Raasch** <br/>
   *Adaptive und nichtadaptive numerische Verfahren hoher Ordnung*
+* **Hans-Peter Scheffler** <br/>
+  *Fractional Calculus: Mathematical models for anisotropic diffusions*
 * **Alexander Schnurr** <br/>
   *Ordinale Muster und Ordinale-Muster-Abhängigkeit*
 * **Rob van Stee** <br/>

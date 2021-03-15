@@ -23,7 +23,9 @@ title: Program
   * 12:00 -- 14:00 Lunch break
   * 14:00 -- 14:45 Alfred Müller <br>
     *Methoden zum Vergleich von stochastischen Modellen und Risiken*
-  * 15:00 -- 15:45 Gregor Nickel <br>
+  * 15:00 -- 15:45 Hans-Peter Scheffler <br>
+    *Fractional Calculus: Mathematical models for anisotropic diffusions*
+  * 16:00 -- 16:45 Gregor Nickel <br>
     *Ethik und Mathematik*
 
 - **Tuesday**
