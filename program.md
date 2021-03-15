@@ -32,5 +32,7 @@ title: Program
   * 11:00 -- 11:45 Alexander Schnurr <br>
     *Ordinale Muster und Ordinale-Muster-Abhängigkeit*
   * 12:00 -- 14:00 Lunch break
-  * 14:00 -- 15:00 Rob van Stee <br>
+  * 14:00 -- 14:45 Rob van Stee <br>
     *Online algorithms*
+  * 15:00 -- 15:45 Thorsten Raasch <br>
+    *Adaptive und nichtadaptive numerische Verfahren hoher Ordnung*

@@ -27,11 +27,12 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
   *Ethik und Mathematik*
 * **Robert Plato** <br/>
   *Regularisierung inverser Probleme*
+* **Thorsten Raasch** <br/>
+  *Adaptive und nichtadaptive numerische Verfahren hoher Ordnung*
 * **Alexander Schnurr** <br/>
   *Ordinale Muster und Ordinale-Muster-Abhängigkeit*
 * **Rob van Stee** <br/>
   *Online algorithms*
-
 
 ## Previous and future workshops
 
