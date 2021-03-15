@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Meeting 2021'
+tagline:          'Meeting 2021'
+description:      'March 22nd-23rd, 2021'
+location:         'University of Siegen'
+url:              https://mathematik-siegen.github.io
+baseurl:          /Meeting-2021
+
+
+exclude: [ "LICENSE.hyde.md", "README.hyde.md", "program.aux", "program.log", "program.out", "program.tex", "misc" ]
+#include: [ "SimplicialSurfaces.pdf" ]
