@@ -19,7 +19,7 @@ title: Program
   * 10:00 -- 10:45 Volker Michel <br>
     *Geomathematik und Verwandtes -- getane Arbeit und Perspektiven*
   * 11:00 -- 11:45 Mohamed Barakat <br>
-    *Constructive and Computeralgebra*
+    *Constructive and Computer Algebra*
   * 12:00 -- 14:00 Lunch break
   * 14:00 -- 14:45 Alfred Müller <br>
     *Methoden zum Vergleich von stochastischen Modellen und Risiken*

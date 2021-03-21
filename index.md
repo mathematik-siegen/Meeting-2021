@@ -18,7 +18,7 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 ## Speakers
 
 * **Mohamed Barakat** <br/>
-  *Constructive and Computeralgebra*
+  *Constructive and Computer Algebra*
 * **Volker Michel** <br/>
   *Geomathematik und Verwandtes -- getane Arbeit und Perspektiven*
 * **Alfred Müller** <br/>
