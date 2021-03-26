@@ -30,7 +30,7 @@ title: Program
 
 - **Tuesday**
   * 10:00 -- 10:45 Robert Plato <br>
-    *Regularisierung inverser Probleme*
+    [*Regularisierung inverser Probleme*](https://u-si.de/Tam5u)
   * 11:00 -- 11:45 Alexander Schnurr <br>
     *Ordinale Muster und Ordinale-Muster-Abhängigkeit*
   * 12:00 -- 14:00 Lunch break
