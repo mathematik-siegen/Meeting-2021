@@ -17,12 +17,12 @@ title: Program
 
 - **Monday**
   * 10:00 -- 10:45 Volker Michel <br>
-    *Geomathematik und Verwandtes -- getane Arbeit und Perspektiven*
+    [*Geomathematik und Verwandtes -- getane Arbeit und Perspektiven*](https://u-si.de/wROep)
   * 11:00 -- 11:45 Mohamed Barakat <br>
-    *Constructive and Computer Algebra*
+    [*Constructive and Computer Algebra*](https://u-si.de/qsOHW)
   * 12:00 -- 14:00 Lunch break
   * 14:00 -- 14:45 Alfred Müller <br>
-    *Methoden zum Vergleich von stochastischen Modellen und Risiken*
+    [*Methoden zum Vergleich von stochastischen Modellen und Risiken*](https://u-si.de/glwyQ)
   * 15:00 -- 15:45 Hans-Peter Scheffler <br>
     *Fractional Calculus: Mathematical models for anisotropic diffusions*
   * 16:00 -- 16:45 Gregor Nickel <br>
@@ -35,6 +35,6 @@ title: Program
     *Ordinale Muster und Ordinale-Muster-Abhängigkeit*
   * 12:00 -- 14:00 Lunch break
   * 14:00 -- 14:45 Rob van Stee <br>
-    *Online algorithms*
+    [*Online algorithms*](https://u-si.de/9VRty)
   * 15:00 -- 15:45 Thorsten Raasch <br>
-    *Adaptive und nichtadaptive numerische Verfahren hoher Ordnung*
+    [*Adaptive und nichtadaptive numerische Verfahren hoher Ordnung*](https://u-si.de/eAKpn)
